@@ -1,0 +1,12 @@
+[10/01/2025, 04:47:27 PM] Mohamed Fatoh (Mohamed20175@fsc.bu.edu.eg, +201091365241) - Assiut/Jeans | Governorate: Giza, Position: Content Creator, Committee: Finance Committee, Notes: None | Stock: 9 → 8
+[10/01/2025, 04:48:52 PM] mohamed (mohamed@gmail.com, +201091365241) - Aswan/Self-Help | Governorate: Gharbia, Position: Developer, Committee: Marketing Committee, Notes: None | Stock: 15 → 14
+[10/01/2025, 04:49:13 PM] mohamed (mohamed@gmail.com, +201091365241) - Beheria/Luggage Scale | Governorate: Beni Suef, Position: Developer, Committee: Public Relations, Notes: None | Stock: 10 → 9
+[10/01/2025, 05:07:40 PM] mohamed (mohamed@gmail.com, +201091365241) - Alexandria/Laptop | Governorate: Beni Suef, Position: Coordinator, Committee: Logistics Committee, Notes: None | Stock: 4 → 3
+[10/01/2025, 05:13:01 PM] mohamed (mohamed@gmail.com, +201091365241) - Alexandria/Laptop | Governorate: Cairo, Position: Content Creator, Committee: Marketing Committee, Notes: None | Stock: 3 → 2
+[10/02/2025, 06:38:21 PM] mohamed (mohamed@gmail.com, +201091365241) - Qalyubia/Passport Holder | Governorate: Gharbia, Position: Co-Leader, Committee: Marketing Committee, Notes: None | Stock: 20 → 19
+[10/04/2025, 05:42:49 PM] mohamed (mohamed@gmail.com, +201091365241) - Cairo/Rivoq | Governorate: Kafr El Sheikh, Position: Member, Committee: R&D Committee, Notes: None | Stock: 12 → 11
+[10/04/2025, 05:45:45 PM] mohamed (mohamed@gmail.com, +201091365241) - Aswan/Amira | Governorate: Assiut, Position: Coordinator, Committee: Logistics Committee, Notes: None | Stock: 18 → 17
+[10/04/2025, 05:47:50 PM] mohamed (mohamed@gmail.com, +201091365241) - Aswan/Amira | Governorate: Beni Suef, Position: Coordinator, Committee: Operations Committee, Notes: None | Stock: 17 → 16
+[10/04/2025, 05:49:22 PM] mohamed (mohamed@gmail.com, +201091365241) - Assiut/Made With Love | Governorate: Faiyum, Position: Coordinator, Committee: Traning  Committee, Notes: None | Stock: 15 → 14
+[10/04/2025, 05:49:43 PM] mohamed (mohamed@gmail.com, +201091365241) - Beheria/Basma Khattab | Governorate: Beheira, Position: Head, Committee: R&D Committee, Notes: None | Stock: 12 → 11
+[10/04/2025, 05:50:39 PM] mohamed (mohamed@gmail.com, +201091365241) - Excuse/ BM Handmade | Governorate: Alexandria, Position: Analyst, Committee: Media Committee, Notes: None | Stock: 5 → 4
